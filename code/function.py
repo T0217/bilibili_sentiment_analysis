@@ -13,7 +13,6 @@ from bs4 import BeautifulSoup
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
-
 # 设置库中的参数
 warnings.filterwarnings('ignore')
 plt.rcParams['font.size'] = 13
