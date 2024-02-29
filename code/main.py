@@ -4,7 +4,7 @@ import time
 import warnings
 import os
 from os.path import join, exists
-import fuction as fp
+import function as fp
 
 # 设置库中的参数
 warnings.filterwarnings('ignore')
