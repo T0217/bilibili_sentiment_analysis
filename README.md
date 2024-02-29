@@ -56,18 +56,3 @@
 2.   用户在特定事件（如视频中的某个情节）发生时的弹幕行为。
 3.   用户之间的互动行为，如回复、@等。
 
-## 三、参考
-
-### （一）参考的代码
-
--   [API接口参考](https://github.com/SocialSisterYi/bilibili-API-collect)
--   [bilibili barrage analysis](https://github.com/moyuweiqing/bilibili-barrage-analysis)
--   [wordCloud](https://github.com/fuqiuai/wordCloud)
--   [popular fonts](https://github.com/chengda/popular-fonts)
--   [stop_words](https://github.com/isnowfy/snownlp/blob/fad6ae77d6c545e09fa91b8ac90bab8864c84177/snownlp/normal/stopwords.txt)
-
-### （二）参考的方法
-
-1.   关键词提取
-     -   [TextRank](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)
-
