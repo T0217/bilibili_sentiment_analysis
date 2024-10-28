@@ -50,7 +50,7 @@ def main(
     resultpath = set_path(resultpath)
     resultpath = join(resultpath, cid)
     if not exists(resultpath):
-        os.mkdir(resultpath)
+        os.makedirs(resultpath)
 
     barrage = get_barrage(
         url=url,
